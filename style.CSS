@@ -48,7 +48,9 @@ div {
     margin: 10px;
     width: 97%;
     height: 60px;
-    background-color: rgb(235, 235, 235);
+    background-color: rgb(235, 235, 235);   
+    vertical-align: middle;
+    line-height: 60px;
 }
 p {
     vertical-align: middle;
@@ -75,6 +77,7 @@ footer {
     margin-top: 10px;
     clear: both;
     vertical-align: middle;
+    line-height: 80px;
 }
 h1, h2, h3 {
     vertical-align: middle;

@@ -1,0 +1,86 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(119, 119, 119);
+    text-align: center;
+    color: rgb(119, 119, 119);
+    font-size: 20px;
+    /* line-height: 80px; */
+}
+
+body {
+    width: 50%;
+    margin: auto;
+}
+header {
+    width: 960px;
+    height: 80px;
+    background-color: rgb(235, 235, 235);
+    margin: 0 auto;
+    vertical-align: middle;
+    line-height: 80px;
+}
+nav {
+    width: 960px;
+    height: 80px;
+    background-color: rgb(235, 235, 235);
+    margin: 0 auto;
+    margin-top: 10px;
+    vertical-align: middle;
+    line-height: 80px;
+}
+section {
+    width: 66%;
+    background-color: rgb(235, 235, 235);
+    margin: 0 auto;
+    margin-top: 10px;
+    float: left;
+    height: 240px;
+    vertical-align: middle;
+}
+article {
+    width: 97%;
+    height: 200px;
+    background-color: rgb(119, 119, 119);
+    margin: 10px;
+    color: rgb(235, 235, 235);
+}
+div {
+    margin: 10px;
+    width: 97%;
+    height: 60px;
+    background-color: rgb(235, 235, 235);
+}
+p {
+    vertical-align: middle;
+    line-height: 60px;
+    margin: 10px;
+    width: 97%;
+    height: 60px;
+    color: rgb(119, 119, 119);
+    background-color: rgb(235, 235, 235);
+    
+}
+aside {
+    width: 30%;
+    height: 240px;
+    background-color: rgb(235, 235, 235);
+    float: right;
+    margin: 10px;
+}
+footer {
+    width: 960px;
+    height: 80px;
+    background-color: rgb(235, 235, 235);
+    margin: 0 auto;
+    margin-top: 10px;
+    clear: both;
+    vertical-align: middle;
+}
+h1, h2, h3 {
+    vertical-align: middle;
+    line-height: 10px;
+    display: inline;
+    color: rgb(119, 119, 119);
+    background-color: rgb(235, 235, 235);
+}
